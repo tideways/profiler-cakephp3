@@ -1,0 +1,6 @@
+{
+    "name": "tideways/profiler-cakephp3",
+    "type": "tideways-extension"
+    "autoload": {"file": ["Tideways.php"]},
+    "license": "MIT"
+}
