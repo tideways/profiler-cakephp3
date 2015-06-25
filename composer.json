@@ -1,6 +1,7 @@
 {
     "name": "tideways/profiler-cakephp3",
+    "description": "A CakePHP3 extension for the Tideways Profiler",
     "type": "tideways-extension",
-    "autoload": {"file": ["Tideways.php"]},
+    "autoload": {"files": ["Tideways.php"]},
     "license": "MIT"
 }
